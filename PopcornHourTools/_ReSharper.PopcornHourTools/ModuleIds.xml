@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C" ModuleId="PopcornHourTools" />
+  <Module PersistentId="467B56E8-8327-47FE-9012-D4623FF036F4" ModuleId="PopcornHourTools.Tests" />
+  <Module PersistentId="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641" ModuleId="MovieCollectionViewer" />
+</Modules>

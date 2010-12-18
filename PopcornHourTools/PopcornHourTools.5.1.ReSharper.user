@@ -1,0 +1,270 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:Properties/f:AssemblyInfo.cs" caret="1331" fromTop="20" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/f:CollectionsConfig.txt" caret="0" fromTop="0" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:Formatters/f:HtmlFormatter.cs" caret="0" fromTop="0" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:MovieCatalog/f:MovieDisplay.cs" caret="338" fromTop="11" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:MovieCatalog/f:MovieCatalog.cs" caret="399" fromTop="10" />
+      <File id="467B56E8-8327-47FE-9012-D4623FF036F4/d:Formatters/f:HtmlFormatterTests.cs" caret="450" fromTop="7" />
+      <File id="467B56E8-8327-47FE-9012-D4623FF036F4/d:CollectionUtils/f:FolderUtilsTests.cs" caret="0" fromTop="0" />
+      <File id="467B56E8-8327-47FE-9012-D4623FF036F4/d:CollectionUtils/f:ResultFinderTests.cs" caret="280" fromTop="10" />
+      <File id="467B56E8-8327-47FE-9012-D4623FF036F4/d:CollectionUtils/f:MovieFolderFinderTests.cs" caret="187" fromTop="7" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:App.xaml" caret="0" fromTop="0" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:App.xaml.cs" caret="0" fromTop="0" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/f:Program.cs" caret="339" fromTop="0" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:FolderUtils.cs" caret="169" fromTop="6" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml" caret="1291" fromTop="7" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="2867" fromTop="19" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="4028" fromTop="17" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:ResultFinder.cs" caret="88" fromTop="3" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="3578" fromTop="30" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="2500" fromTop="28" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="2500" fromTop="29" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="2500" fromTop="23" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="13" fromTop="0" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:FolderUtils.cs" caret="0" fromTop="0" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="1006" fromTop="15" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="1882" fromTop="20" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:ResultFinder.cs" caret="1193" fromTop="20" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="877" fromTop="14" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="4885" fromTop="11" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="5592" fromTop="9" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="5592" fromTop="7" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="5608" fromTop="14" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="5435" fromTop="9" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="5953" fromTop="12" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="4422" fromTop="14" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:MovieFolderFinder.cs" caret="6293" fromTop="15" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="586" fromTop="7" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="1297" fromTop="15" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="1121" fromTop="7" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="1746" fromTop="24" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="2168" fromTop="14" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="1601" fromTop="12" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="2373" fromTop="21" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="3208" fromTop="26" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml.cs" caret="2997" fromTop="21" />
+      <File id="D6E2BBDE-82D9-4C2C-97A1-2C8B26FA4641/f:MainWindow.xaml" caret="1291" fromTop="7" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:ResultFinder.cs" caret="648" fromTop="19" />
+      <File id="CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C/d:CollectionUtils/f:ResultFinder.cs" caret="207" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="27" />
+      <Item value="List" priority="6" />
+      <Item value="Console`0" priority="15" />
+      <Item value="String`0" priority="7" />
+      <Item value="public" priority="10" />
+      <Item value="void" priority="11" />
+      <Item value="listOfLocationsWithNoNfoFile" priority="0" />
+      <Item value="moviesLocation" priority="2" />
+      <Item value="return" priority="4" />
+      <Item value="IList" priority="0" />
+      <Item value="if" priority="8" />
+      <Item value="f" priority="2" />
+      <Item value="true" priority="0" />
+      <Item value="foundPrefix" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="matchingDirectories" priority="2" />
+      <Item value="foreach" priority="3" />
+      <Item value="file" priority="0" />
+      <Item value="new" priority="6" />
+      <Item value="List&lt;string&gt;" priority="2" />
+      <Item value="d" priority="4" />
+      <Item value="Genre`0" priority="0" />
+      <Item value="Genre" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="selection" priority="4" />
+      <Item value="InvariantCultureIgnoreCase" priority="1" />
+      <Item value="switch" priority="1" />
+      <Item value="InvalidCastException`0" priority="1" />
+      <Item value="case" priority="1" />
+      <Item value="break" priority="0" />
+      <Item value="GetFoldersWithNoNfoFile`0" priority="0" />
+      <Item value="assembly" priority="0" />
+      <Item value="Test" priority="3" />
+      <Item value="FolderContentInfo" priority="0" />
+      <Item value="CollectionUtils" priority="2" />
+      <Item value="FolderUtils`0" priority="3" />
+      <Item value="FolderUtils" priority="0" />
+      <Item value="Assert`0" priority="1" />
+      <Item value="SetUp" priority="2" />
+      <Item value="MovieFolderFinder`0" priority="2" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="match" priority="2" />
+      <Item value="PopcornHourTools" priority="1" />
+      <Item value="locations" priority="1" />
+      <Item value="MovieFolderFinderTests`0" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="startupPath" priority="0" />
+      <Item value="testDataLocation" priority="0" />
+      <Item value="List`0" priority="0" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+      <Item value="results" priority="1" />
+      <Item value="expected" priority="0" />
+      <Item value="v" priority="0" />
+      <Item value="var" priority="3" />
+      <Item value="in" priority="0" />
+      <Item value="directory" priority="0" />
+      <Item value="textStreamReader" priority="1" />
+      <Item value="GetSearchDirectories`0" priority="0" />
+      <Item value="FindFoldersMatching`0" priority="0" />
+      <Item value="matches" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="searchLocations" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="location" priority="0" />
+      <Item value="Ignore" priority="0" />
+      <Item value="ImageSource`0" priority="0" />
+      <Item value="ValidationResult`0" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="orangeImageIconLocation" priority="1" />
+      <Item value="greenImageIconLocation" priority="0" />
+      <Item value="image" priority="3" />
+      <Item value="statusImage" priority="0" />
+      <Item value="resultsLabel" priority="1" />
+      <Item value="sender" priority="1" />
+      <Item value="e" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="BeginInit`0" priority="1" />
+      <Item value="EndInit`0" priority="1" />
+      <Item value="Dispatcher" priority="1" />
+      <Item value="Background" priority="0" />
+      <Item value="BackgroundWorker" priority="1" />
+      <Item value="searchMoviesBtn" priority="0" />
+      <Item value="Environment`0" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="imageSourceUri" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="ListBox`0" priority="0" />
+      <Item value="movieCollection" priority="0" />
+      <Item value="TextReader`0" priority="0" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="movieList" priority="1" />
+      <Item value="input" priority="0" />
+      <Item value="m" priority="0" />
+      <Item value="CheckIfResultMatchesSearchCriteriaAndAddResultToSearchResultsTextBlock`0" priority="0" />
+      <Item value="searchCriteriaTextBox" priority="0" />
+      <Item value="result" priority="1" />
+      <Item value="searchCriteria" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="13" />
+      <Item value="ReadLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="9" />
+      <Item value="Equals`0" priority="1" />
+      <Item value="IsNullOrEmpty`0" priority="1" />
+      <Item value="Compare`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="EndsWith`0" priority="0" />
+      <Item value="ToUpper`0" priority="3" />
+      <Item value="ToLower`0" priority="1" />
+      <Item value="Contains`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization.CultureInfo">
+      <Item value="CurrentCulture" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="3" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PopcornHourTools.CollectionUtils.FolderUtils">
+      <Item value="GetFoldersWithNoJpgFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="1" />
+      <Item value="NotNull`0" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="IsNotNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PopcornHourTools.CollectionUtils.MovieFolderFinder">
+      <Item value="FindFoldersMatching`0" priority="0" />
+      <Item value="FindFolders`0" priority="0" />
+      <Item value="GetSearchDirectories`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="GetEnumerator`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Contains`0" priority="0" />
+      <Item value="Count" priority="2" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="0" />
+      <Item value="Peek`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MovieCollectionViewer.MainWindow">
+      <Item value="statusImage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Image">
+      <Item value="Source" priority="0" />
+      <Item value="SourceUpdated" priority="2" />
+      <Item value="SetCurrentValue`0" priority="0" />
+      <Item value="UpdateLayout`0" priority="1" />
+      <Item value="BeginInit`0" priority="0" />
+      <Item value="EndInit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="0" />
+      <Item value="UpdateLayout`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.RoutedEventArgs">
+      <Item value="Source" priority="0" />
+      <Item value="RoutedEvent" priority="0" />
+      <Item value="OriginalSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="BeginInvoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Threading.DispatcherPriority">
+      <Item value="Render" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetCurrentDirectory`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

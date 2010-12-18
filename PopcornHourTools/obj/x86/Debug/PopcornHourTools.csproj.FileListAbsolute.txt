@@ -1,0 +1,6 @@
+G:\Projects\PopcornHourTools\PopcornHourTools\bin\Debug\PopcornHourTools.exe
+G:\Projects\PopcornHourTools\PopcornHourTools\bin\Debug\PopcornHourTools.pdb
+G:\Projects\PopcornHourTools\PopcornHourTools\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\PopcornHourTools\PopcornHourTools\obj\x86\Debug\PopcornHourTools.exe
+G:\Projects\PopcornHourTools\PopcornHourTools\obj\x86\Debug\PopcornHourTools.pdb
+G:\Projects\PopcornHourTools\PopcornHourTools\bin\Debug\CollectionsConfig.txt

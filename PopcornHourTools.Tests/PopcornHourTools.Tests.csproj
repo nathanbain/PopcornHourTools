@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{467B56E8-8327-47FE-9012-D4623FF036F4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PopcornHourTools.Tests</RootNamespace>
+    <AssemblyName>PopcornHourTools.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework">
+      <HintPath>C:\Program Files (x86)\TestDriven.NET 3\NUnit\2.5\framework\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CollectionUtils\FolderUtilsTests.cs" />
+    <Compile Include="CollectionUtils\MovieFolderFinderTests.cs" />
+    <Compile Include="CollectionUtils\ResultFinderTests.cs" />
+    <Compile Include="Formatters\HtmlFormatterTests.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CollectionUtils\Test Data\FolderUtils\dir with both\test.jpg" />
+    <Content Include="CollectionUtils\Test Data\FolderUtils\dir with no nfo\test.jpg" />
+    <EmbeddedResource Include="Formatters\Test Data\two_movie_example.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formatters\Test Data\empty_example.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CollectionUtils\Test Data\FolderUtils\dir with both\test.nfo" />
+    <None Include="CollectionUtils\Test Data\FolderUtils\dir with no jpg\test.nfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CollectionUtils\Test Data\FolderUtils\dir with both\second level dir\" />
+    <Folder Include="CollectionUtils\Test Data\FolderUtils\dir with no jpg or nfo\" />
+    <Folder Include="CollectionUtils\Test Data\FolderUtils\empty dir\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PopcornHourTools\PopcornHourTools.csproj">
+      <Project>{CFDC09DF-AD32-4DA4-BE73-F2E4E1EB5C1C}</Project>
+      <Name>PopcornHourTools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

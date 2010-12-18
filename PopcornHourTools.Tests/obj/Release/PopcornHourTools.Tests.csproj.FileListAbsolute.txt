@@ -1,0 +1,12 @@
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Release\Formatters\Test Data\two_movie_example.html
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Release\Formatters\Test Data\empty_example.html
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Release\CollectionsConfig.txt
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Release\PopcornHourTools.Tests.dll
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Release\PopcornHourTools.Tests.pdb
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Release\nunit.framework.dll
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Release\PopcornHourTools.exe
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Release\PopcornHourTools.pdb
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Release\nunit.framework.xml
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\obj\Release\ResolveAssemblyReference.cache
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\obj\Release\PopcornHourTools.Tests.dll
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\obj\Release\PopcornHourTools.Tests.pdb

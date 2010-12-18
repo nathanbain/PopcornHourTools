@@ -1,0 +1,12 @@
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Debug\PopcornHourTools.Tests.dll
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Debug\PopcornHourTools.Tests.pdb
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Debug\nunit.framework.dll
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Debug\PopcornHourTools.exe
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Debug\PopcornHourTools.pdb
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Debug\nunit.framework.xml
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\obj\Debug\PopcornHourTools.Tests.dll
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\obj\Debug\PopcornHourTools.Tests.pdb
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Debug\CollectionsConfig.txt
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Debug\Formatters\Test Data\two_movie_example.html
+G:\Projects\PopcornHourTools\PopcornHourTools.Tests\bin\Debug\Formatters\Test Data\empty_example.html

@@ -1,0 +1,3 @@
+﻿X:\
+\\192.168.1.86\share\Video
+\\192.168.1.86\USB_DRIVE_A-1\Nathan\Movies

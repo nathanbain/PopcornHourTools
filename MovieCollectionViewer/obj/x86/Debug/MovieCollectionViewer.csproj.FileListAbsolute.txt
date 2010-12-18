@@ -1,0 +1,17 @@
+G:\Projects\PopcornHourTools\MovieCollectionViewer\bin\Debug\MovieCollectionViewer.exe
+G:\Projects\PopcornHourTools\MovieCollectionViewer\bin\Debug\MovieCollectionViewer.pdb
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\MainWindow.baml
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\MainWindow.g.cs
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\App.g.cs
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\MovieCollectionViewer_MarkupCompile.cache
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\MovieCollectionViewer.g.resources
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\MovieCollectionViewer.Properties.Resources.resources
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\MovieCollectionViewer.exe
+G:\Projects\PopcornHourTools\MovieCollectionViewer\obj\x86\Debug\MovieCollectionViewer.pdb
+G:\Projects\PopcornHourTools\MovieCollectionViewer\bin\Debug\CollectionsConfig.txt
+G:\Projects\PopcornHourTools\MovieCollectionViewer\bin\Debug\PopcornHourTools.exe
+G:\Projects\PopcornHourTools\MovieCollectionViewer\bin\Debug\PopcornHourTools.pdb
+G:\Projects\PopcornHourTools\MovieCollectionViewer\bin\Debug\movie_list.txt
